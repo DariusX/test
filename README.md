@@ -1,1 +1,1 @@
-Simple project to demo SpringBoot. f3-01
+Simple project to demo SpringBoot. f3-02
