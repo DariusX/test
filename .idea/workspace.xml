@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="183786bc-00cc-4072-ab22-acfc4408662c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="c931fea5-314d-4d28-a5fe-3036978981e8" name="Revert &quot;f2-3&quot;" comment="Revert &quot;f2-3&quot;&#10;&#10;This reverts commit 322d320f">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,6 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="develop" />
@@ -56,7 +64,28 @@
       <option name="project" value="LOCAL" />
       <updated>1570498618375</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="f2-1">
+      <created>1570500086399</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570500086399</updated>
+    </task>
+    <task id="LOCAL-00003" summary="f2-2">
+      <created>1570500104956</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570500104956</updated>
+    </task>
+    <task id="LOCAL-00004" summary="f2-3">
+      <created>1570500128421</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570500128421</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,7 +93,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -72,6 +103,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="x" />
-    <option name="LAST_COMMIT_MESSAGE" value="x" />
+    <MESSAGE value="f2-1" />
+    <MESSAGE value="f2-2" />
+    <MESSAGE value="f2-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="f2-3" />
   </component>
 </project>
